@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Memory Match Game",
+    "imageSrc": "projects/memorymatchgame.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vaishnavi-Kaushik/Innomatics-Project-2.git"
+  },
+  {
+    "title": " My Own Code Editor ",
+    "imageSrc": "projects/project.png",
+    "description": "This project is used to run the code of HTML, CSS and JS .",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vaishnavi-Kaushik/My-Code-editor.git"
+  },
+  {
+    "title": "Web-Based AI Assistant",
+    "imageSrc": "projects/ai.jpg",
+    "description": "This is a web based AI assitant that designed to assist users in managing tasks and accessing information efficiently.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vaishnavi-Kaushik/My-Assistant.git"
+  }
+]

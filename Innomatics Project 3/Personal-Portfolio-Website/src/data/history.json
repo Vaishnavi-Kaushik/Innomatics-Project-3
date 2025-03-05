@@ -1,0 +1,19 @@
+[
+  {
+    "role": "MERN Stack Developer",
+    "organisation": "Uptoskills",
+    "startDate": "Jan, 2024",
+    "endDate": "Current",
+    "experiences": ["Worked on Real world Pojects"],
+    "imageSrc": "history/innomatics.png"
+  },
+  {
+    "role": "MERN Stack Developer",
+    "organisation": "Uptoskills",
+    "startDate": "Oct, 2024",
+    "endDate": "JAn, 2025",
+    "experiences": ["Worked on AI Interview Projects", "Reduced load times by 50%"],
+    "imageSrc": "history/uptoskills.png"
+  }
+
+]
